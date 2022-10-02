@@ -1,0 +1,125 @@
+
+
+#ButOne
+{
+    font-size: 24px;
+    position: absolute;
+    padding-left: 11px;
+    right: 10px;
+    margin-top: 15px;
+    background-color:fuchsia;
+    color: greenyellow;
+}
+
+fieldset
+{
+    background-color:rgb(0,64,128);
+    color:white;
+}
+
+header
+{
+    background-color:ghostwhite;
+    font-size: 44px;
+    margin-left: -11px;
+    margin-right: -11px;
+    margin-top: -11px;
+    padding-top: 6px;
+    padding-right: 11px;
+    height: 60px;
+    border-bottom: 3px solid black;
+}
+
+nav
+{
+    position:relative;
+    background-color:gainsboro;
+    margin-left: -11px;
+    margin-right: -11px;
+    height: 63px;
+    border-bottom: 3px solid black;
+}
+
+footer
+{
+    background-color:ghostwhite;
+    margin-left: -11px;
+    margin-right: -11px;
+    margin-bottom: -11px;
+    margin-top: -22px;
+    padding-left: 11px;
+    height: 150px;
+    border-top: 3px solid black;
+}
+
+.Text
+{
+    margin-left: 522px;
+    margin-top: -2600px;
+    height: 2600px;
+    color: white;
+}
+
+video
+{
+    width: 1120px;
+}
+
+p
+{
+    text-indent: 30px;
+}
+
+.LeftPanel
+{
+    background-color:ghostwhite;
+    width: 510px;
+    height: 2600px;
+    margin-left: -11px;
+    padding-left: 10px;
+    padding-top: 11px;
+    border-right: 3px solid black;
+}
+
+h3
+{
+    margin-top: -11px;
+    padding-top: 11px;
+}
+
+#OneImg
+{
+    position: absolute;
+    left: 600px;
+    bottom: 280px;
+}
+
+img
+{
+    border: 1px solid black;
+    left: 11px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: -30px;
+    border-radius: 7px;
+}
+
+#Sony
+{
+    color:blue;
+}
+
+#Microsoft
+{
+    color:green;
+}
+
+#Nintendo
+{
+    color: red;
+}
+
+#Valve
+{
+    color: black;
+}
